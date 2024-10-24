@@ -1,0 +1,9 @@
+{
+  "short_name": "RTG-Carousel",
+  "name": "A robust a11y compliant variation",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
